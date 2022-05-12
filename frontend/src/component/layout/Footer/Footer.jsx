@@ -1,6 +1,4 @@
 import React from 'react';
-import playStore from '../../../images/playstore.png';
-import appStore from '../../../images/Appstore.png';
 import './Footer.css';
 
 const Footer = () => {
@@ -12,8 +10,6 @@ const Footer = () => {
           sunt corporis natus! Perspiciatis suscipit itaque totam odit earum
           rerum!
         </p>
-        {/* <img src={playStore} alt="playstore" />
-        <img src={appStore} alt="Appstore" /> */}
       </div>
 
       <div className="midFooter">
